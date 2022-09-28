@@ -1,0 +1,30 @@
+
+
+.logo {
+    width: 50px;
+    float: left;
+    margin-left: 40px;
+}
+
+.menu li {
+    display: inline;
+    float: left;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 14px 16px;
+    color: #333;
+}
+
+.menu a:hover {
+    color: #268fd0;
+}
+
